@@ -144,8 +144,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,16 +220,27 @@
               "icon": "lucide-list",
               "title": "Outline of Philosophy of technology"
             }
+          },
+          {
+            "id": "f02d01740b382fb7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -240,7 +250,7 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "0976c198fe2ae7e7",
+  "active": "ffbb85cd12c18b0c",
   "lastOpenFiles": [
     "Sans titre.base",
     "EHESS/The Politics of Emotions.md",
