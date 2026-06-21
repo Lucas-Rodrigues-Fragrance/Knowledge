@@ -1,0 +1,23 @@
+# --- Obsidian : fichiers de config locaux / bruyants ---
+# On garde le contenu (.md) ; on ignore l'état d'interface propre à chaque machine.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/cache/
+.obsidian/.cache/
+
+# Corbeille Obsidian
+.trash/
+
+# --- Systèmes d'exploitation ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Divers ---
+*.tmp
+*.log
+.~lock.*#
