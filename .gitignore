@@ -1,0 +1,15 @@
+# --- macOS ---
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+
+# --- Obsidian : fichiers de config locaux / bruyants ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# --- Divers ---
+*.tmp
+*.log
