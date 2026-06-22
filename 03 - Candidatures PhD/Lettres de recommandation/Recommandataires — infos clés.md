@@ -25,16 +25,17 @@ statut: brouillon à compléter par Lucas
 
 ## 1. Michel PUECH — philosophie de la technique
 - **Profil** : Maître de conférences HDR en philosophie, **Sorbonne Université**. Spécialiste de **philosophie de la technique** et d'**éthique environnementale** ; auteur de *The Ethics of Ordinary Technology* (Routledge), *The Technosphere*, *Technophilia and Technophobia*.
-- **Lien direct avec moi** : j'ai suivi son cours/séminaire **« Éthique environnementale »** (voir ma note de cours). *(À compléter : intitulé exact, semestre, note obtenue, travail rendu.)*
+- **Lien direct avec moi** : j'ai suivi deux cours en L3 et c'est un genre de menteur
+-
 - **Pourquoi il est stratégique** : c'est **l'auteur le plus proche de mon sujet** parmi mes références → sa lettre certifie que je connais le champ « de l'intérieur » et que mon projet y est pertinent et original.
 - **Ce qu'il peut attester de première main** *(à compléter ensemble)* :
   - [ ] Ma compréhension de la philosophie de la technique (Jonas, Puech, technosphère…).
   - [ ] Le travail précis que j'ai rendu dans son cours : _________________.
   - [ ] Une qualité concrète observée (rigueur conceptuelle ? autonomie intellectuelle ? originalité ?) avec un exemple.
 - **Points à lui demander de souligner** :
-  - Mon ancrage en **philosophie de la technique** et l'**adéquation de mon projet** (IA compagnons / subjectivité) avec ce champ.
+  - Mon ancrage en **philosophie de la technique** et l'**adéquation de mon projet** (IA compagnons / subjectivité) avec ce champ (envoyer un travail dont j'ai eu 14.5 sur 20, mais dire que )
   - Ma capacité à relier **éthique de la technologie ordinaire** et questions empiriques.
-  - Mon potentiel à mener une recherche doctorale **interdisciplinaire** (philo + STS).
+  - Mon potentiel à mener une recherche doctorale **interdisciplinaire** (philo + STS). Il a dit que j'étais intellectuellement mature
 
 ## 2. Pierre-Henri CASTEL — subjectivité, individualisme, santé mentale
 - **Profil** : **Directeur de recherche au CNRS (1ʳᵉ classe), affecté à l'EHESS** (équipe LIER-FYT). Ancien élève de l'**ENS-Ulm**, agrégé de philosophie, **docteur en philosophie sous la direction de Derrida** + docteur en psychologie clinique. Travaux à l'interface **philosophie de l'esprit / psychanalyse / anthropologie historique** : conceptualisation des maladies mentales et **transformations de l'individualisme et du régime de l'autonomie**. Ouvrages : *La Métamorphose impensable*, *À quoi résiste la psychanalyse ?*, *L'Esprit malade*.
@@ -51,16 +52,20 @@ statut: brouillon à compléter par Lucas
 
 ## 3. Emanuele COCCIA — métaphysique de la vie, métamorphose, humain/non-humain
 - **Profil** : **Maître de conférences à l'EHESS** (depuis 2011), philosophe de renommée internationale. Travaux sur la **vie, le sensible, la métamorphose, le vivant non-humain** : *La Vie des plantes*, *La Vie sensible*, *Métamorphoses*, *Philosophie de la maison*. Très présent dans le débat public/culturel (Centre Pompidou, etc.).
-- **Lien direct avec moi** : *(à compléter : quel séminaire EHESS ai-je suivi avec lui ? quel travail / échange ?)*
+- **Lien direct avec moi** : j'ai suivi un séminaire en 2025-2026 (Pourquoi vivons-nous ensemble ? 20/20), j'ai déjà pris 2 RDV avec lui et il a fait un
+
 - **Pourquoi il est stratégique** : (1) **prestige international** qui pèse dans un dossier nord-américain ; (2) il apporte la **profondeur métaphysique** sur la **frontière humain / non-humain / vivant** — directement utile à ma question « qu'est-ce qu'« être humain » face à des machines qui simulent l'empathie ? ». Il élève le dossier au-delà de l'éthique appliquée.
 - **Ce qu'il peut attester de première main** *(à compléter)* :
   - [ ] Mon aisance avec les questions **métaphysiques / ontologiques** (vie, sujet, non-humain).
-  - [ ] Le travail/échange précis : _________________.
-  - [ ] Mon originalité philosophique et ma curiosité interdisciplinaire.
+  - [ ] Le travail/échange précis : Il m'a donné 20 sur 20 pour un travail où j'ai élaboré une ville "Neuro-Matière" permettant de subvenir et s'adapter aux besoins de l'individu contemporain
+  - [ ] Mon originalité philosophique (et sociologique) et ma curiosité interdisciplinaire (mon travail était à la fois philosophique et sociologique)
+  - Voici la notation détaillée: Travail très bien structuré et remarquablement écrit, qui articule de manière convaincante diagnostics sociologiques et philosophiques des effets de la modernité (Illouz, Bauman, McLuhan) et proposition spéculative d’une ville « Neuro‑Matière » orientée vers la renaissance des liens sociaux. Absolument magistral. Note : 20/20.
+  - 
 - **Points à lui demander de souligner** :
-  - La **dimension métaphysique** de mon projet (redéfinition de l'humain, statut de l'« autre » artificiel).
-  - Ma créativité conceptuelle et ma capacité à penser au croisement des disciplines.
-  - Mon **potentiel international** (sa caution compte à Cornell/MIT/Stanford…).
+  - La **dimension métaphysique** de mon projet (redéfinition de l'humain, statut de l'« autre » artificiel). Je pense qu'on devrait faire attention avec cette dimension Claude: Cornell ne cherche pas un philosophe...
+  - Ma créativité conceptuelle et ma capacité à penser au croisement des disciplines. Parfait.
+  - Mon **potentiel international** (sa caution compte à Cornell/MIT/Stanford…). Je viens du Québec, j'ai fait une année à l'UQAM, ma licence à Sorbonne Université et master EHESS et ENS.
+  - Il m'a aussi dit que j'étais intellectuellement mature
 
 ---
 
