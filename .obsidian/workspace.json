@@ -81,13 +81,14 @@
             "id": "0de90a51e8748a41",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Sans titre.base",
-                "viewName": "Tableau"
+                "file": "👋 Test synchro Claude.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Sans titre"
+              "icon": "lucide-file",
+              "title": "👋 Test synchro Claude"
             }
           }
         ],
@@ -250,9 +251,10 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "ffbb85cd12c18b0c",
+  "active": "0de90a51e8748a41",
   "lastOpenFiles": [
     "Sans titre.base",
+    "👋 Test synchro Claude.md",
     "EHESS/The Politics of Emotions.md",
     "Philosophy of technology/Ethics of technology.md",
     "EHESS/Pluralisme, contradiction, incertitude.md",
@@ -290,7 +292,6 @@
     "Michel Maffesoli, Le temps des Tribus. Le déclin de l'individualisme dans les sociétés de masse, Paris, Méridiens-Klincksieck, 1988 [compte-rendu].pdf",
     "Individualism.md",
     "Technophilia and technophobia.pdf",
-    "The Ethics of Ordinary Technology -- Michel Puech -- Routledge Studies in Science, Technology and Society, 1, -- Routledge -- 9781138486546 -- 28bc81ac2cfb483272b54e29801a93db -- Anna’s Archive.pdf",
     "Philosophy of technology/Social technology/Sherry Turkle.md",
     "La sacralisation de l'enfant/oui.md",
     "Technologie & sciences/Technologie et sciences.md",
