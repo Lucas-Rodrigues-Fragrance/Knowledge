@@ -13,11 +13,11 @@ statut: brouillon à compléter par Lucas
 > Voir aussi : [[Projet de recherche (brouillon)]], [[Fiche — Programmes PhD cibles (2027)]].
 
 ## 🎯 Pourquoi ce trio fonctionne (complémentarité)
-| Recommandataire | Ce qu'il apporte d'unique à mon dossier |
-|---|---|
-| **Michel Puech** | Le **cœur disciplinaire** : philosophie de la technique. Atteste que mon projet s'inscrit dans un champ établi (il *est* une de mes références). |
+| Recommandataire         | Ce qu'il apporte d'unique à mon dossier                                                                                                                 |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Michel Puech**        | Le **cœur disciplinaire** : philosophie de la technique. Atteste que mon projet s'inscrit dans un champ établi (il *est* une de mes références).        |
 | **Pierre-Henri Castel** | L'**ossature conceptuelle** : individualisme, autonomie, lien social, santé mentale — le socle exact de ma question sur la solitude et la subjectivité. |
-| **Emanuele Coccia** | Le **prestige international + la profondeur métaphysique** : vie, métamorphose, frontière humain/non-humain. Donne de la hauteur philosophique. |
+| **Emanuele Coccia**     | Le **prestige international + la profondeur métaphysique** : vie, métamorphose, frontière humain/non-humain. Donne de la hauteur philosophique.         |
 
 > 💡 Stratégie : demander à chacun d'**insister sur un angle différent** (technique / subjectivité / métaphysique) plutôt que de répéter les mêmes éloges. Les comités lisent les 3 lettres ensemble : elles doivent **se compléter**, pas se dupliquer.
 
@@ -39,20 +39,19 @@ statut: brouillon à compléter par Lucas
 
 ## 2. Pierre-Henri CASTEL — subjectivité, individualisme, santé mentale
 - **Profil** : **Directeur de recherche au CNRS (1ʳᵉ classe), affecté à l'EHESS** (équipe LIER-FYT). Ancien élève de l'**ENS-Ulm**, agrégé de philosophie, **docteur en philosophie sous la direction de Derrida** + docteur en psychologie clinique. Travaux à l'interface **philosophie de l'esprit / psychanalyse / anthropologie historique** : conceptualisation des maladies mentales et **transformations de l'individualisme et du régime de l'autonomie**. Ouvrages : *La Métamorphose impensable*, *À quoi résiste la psychanalyse ?*, *L'Esprit malade*.
-- **Lien direct avec moi** : séminaire **« Santé mentale »** à l'EHESS (déclin du lien social, pathologie sociale, montée de l'autonomie/subjectivité individuelle, « l'homme sans gravité »). *(À confirmer : est-ce bien son séminaire ? co-enseigné avec « Alain » — préciser. Quel travail rendu / note ?)*
-- **Pourquoi il est stratégique** : ses thèmes **sont exactement le socle de ma question de thèse** — comment les technologies relationnelles amplifient la **solitude**, l'**individualisme** et reconfigurent la **subjectivité**. Sa lettre montre que je maîtrise la généalogie « individualisme / autonomie / souffrance psychique » sur laquelle repose mon hypothèse.
+- **Lien direct avec moi** : séminaire **« Santé mentale »** à l'EHESS (déclin du lien social, pathologie sociale, montée de l'autonomie/subjectivité individuelle, « l'homme sans gravité »). où il a assisté une fois (c'est là que je l'ai rencontré). Il est mon directeur de thèse et on voit pour avoir Eva Illouz comme jury.
+- **Pourquoi il est stratégique** : ses thèmes **sont exactement le socle de ma question de thèse** — (voici mon projet de recherche que je dépose ici)![[Projet M2_Lucas M. RODRIGUES.pdf]]
 - **Ce qu'il peut attester de première main** *(à compléter)* :
-  - [ ] Ma maîtrise des cadres sur l'**individualisme contemporain** (Ehrenberg, Lasch, Sennett…) et la santé mentale.
-  - [ ] Le travail rendu dans son séminaire : _________________.
-  - [ ] Ma finesse d'analyse / capacité à articuler théorie sociale et philosophie de l'esprit.
+  - [ ] Ma capacité à faire des recherches interdisciplinaires (comme tu vois, je vais faire une enquête et une conceptualisation)
+  - [ ]
 - **Points à lui demander de souligner** :
-  - Le lien **rigoureux** entre mon projet (solitude/IA) et la sociologie/philosophie de l'**individualisme et de l'autonomie**.
-  - Ma capacité à penser la **subjectivité** de façon critique et historiquement informée.
+  
+  - Ma capacité à penser la **subjectivité** de façon critique et historiquement informée. (attention il n'aime pas quand on fait de la philosophie de comptoir et dire "la société est de la merde aujourd'hui)
   - Mon sérieux méthodologique (utile pour les comités STS/communication).
 
 ## 3. Emanuele COCCIA — métaphysique de la vie, métamorphose, humain/non-humain
 - **Profil** : **Maître de conférences à l'EHESS** (depuis 2011), philosophe de renommée internationale. Travaux sur la **vie, le sensible, la métamorphose, le vivant non-humain** : *La Vie des plantes*, *La Vie sensible*, *Métamorphoses*, *Philosophie de la maison*. Très présent dans le débat public/culturel (Centre Pompidou, etc.).
-- **Lien direct avec moi** : j'ai suivi un séminaire en 2025-2026 (Pourquoi vivons-nous ensemble ? 20/20), j'ai déjà pris 2 RDV avec lui et il a fait un
+- **Lien direct avec moi** : j'ai suivi un séminaire en 2025-2026 (Pourquoi vivons-nous ensemble ? 20/20), j'ai déjà pris 2 RDV avec lui et il a souligné ma maturité intellectuelle (c'est assez rare aujourd'hui), il semblait aussi voir mon potentiel et m'a aidé à avoir Eva Illouz comme directrice (ça na pas fonctionné)
 
 - **Pourquoi il est stratégique** : (1) **prestige international** qui pèse dans un dossier nord-américain ; (2) il apporte la **profondeur métaphysique** sur la **frontière humain / non-humain / vivant** — directement utile à ma question « qu'est-ce qu'« être humain » face à des machines qui simulent l'empathie ? ». Il élève le dossier au-delà de l'éthique appliquée.
 - **Ce qu'il peut attester de première main** *(à compléter)* :
