@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Candidatures PhD/Fiche — Programmes PhD cibles (2027).md",
+                "file": "03 - Candidatures PhD/Projet de recherche (brouillon).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fiche — Programmes PhD cibles (2027)"
+              "title": "Projet de recherche (brouillon)"
             }
           }
         ],
@@ -209,8 +209,10 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "3c53b9babb3549c6",
+  "active": "ffbb85cd12c18b0c",
   "lastOpenFiles": [
+    "03 - Candidatures PhD/Lettres de recommandation.md",
+    "03 - Candidatures PhD/Fiche — Programmes PhD cibles (2027).md",
     "99 - Pièces jointes/Sans titre.base",
     "99 - Pièces jointes/Pasted image 20251027165348.png",
     "99 - Pièces jointes/Capture d’écran 2025-10-28 à 14.56.39.png",
@@ -231,9 +233,7 @@
     "04 - Bibliothèque/Livres/The Tyranny of Guilt _ An Essay on Western Masochism -- Pascal Bruckner; translated from the French by Steven -- Princeton University Press, -- 9780691143767 -- c05f408dc8be70d172ecab84249e81d5 -- Anna’s Archive.epub",
     "04 - Bibliothèque/Livres/The Ethics of Ordinary Technology -- Michel Puech -- Routledge Studies in Science, Technology and Society, 1, -- Routledge -- 9781138486546 -- 28bc81ac2cfb483272b54e29801a93db -- Anna’s Archive.pdf",
     "04 - Bibliothèque/Livres/The Burnout Society -- Byung-Chul Han; Erik Butler -- Stanford Briefs, 1, 2015 -- Stanford Briefs, an imprint of Stanford University Press -- 9780804795098 -- 9698a14dcb9d4db51a8fc7f41bef08b5 -- Anna’s Archive.epub",
-    "04 - Bibliothèque/Livres/Robot Ethics_ The Ethical and Social Implications of -- Abney, Keith;Bekey, George A_;Lin, Patrick -- Intelligent robotics and autonomous agents, -- 9780262016667 -- 66753d9a93f0578aa1e635e3805a28ce -- Anna’s Archive.lit",
     "03 - Candidatures PhD/Projet de recherche (brouillon).md",
-    "03 - Candidatures PhD/Fiche — Programmes PhD cibles (2027).md",
     "03 - Candidatures PhD/Fiche — Directeurs·rices potentiel·les.md",
     "02 - Notes thématiques/Philosophie de la technique/Technologie sociale/Sherry Turkle.md",
     "02 - Notes thématiques/Philosophie/Philosophie ancienne/Ancient political (and social) theories.md",
