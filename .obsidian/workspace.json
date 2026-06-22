@@ -41,58 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHESS/The Politics of Emotions.md",
+                "file": "03 - Candidatures PhD/Fiche — Programmes PhD cibles (2027).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Politics of Emotions"
-            }
-          },
-          {
-            "id": "b1fbd88b664c2a5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EHESS/Pourquoi vivons-nous ensemble?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pourquoi vivons-nous ensemble?"
-            }
-          },
-          {
-            "id": "764a56fed33f4579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EHESS/Pourquoi vivons-nous ensemble?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pourquoi vivons-nous ensemble?"
-            }
-          },
-          {
-            "id": "0de90a51e8748a41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "👋 Test synchro Claude.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "👋 Test synchro Claude"
+              "title": "Fiche — Programmes PhD cibles (2027)"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,52 +209,56 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "0de90a51e8748a41",
+  "active": "3c53b9babb3549c6",
   "lastOpenFiles": [
-    "Sans titre.base",
+    "99 - Pièces jointes/Sans titre.base",
+    "99 - Pièces jointes/Pasted image 20251027165348.png",
+    "99 - Pièces jointes/Capture d’écran 2025-10-28 à 14.56.39.png",
+    "99 - Pièces jointes/Capture d’écran 2025-10-27 à 16.49.55.png",
+    "99 - Pièces jointes/Capture d’écran 2025-10-24 à 15.55.05.png",
+    "99 - Pièces jointes/Capture d’écran 2025-10-24 à 15.26.56.png",
+    "99 - Pièces jointes/Capture d’écran 2025-10-24 à 14.09.29.png",
+    "99 - Pièces jointes/Capture d’écran 2025-10-24 à 14.08.02.png",
+    "99 - Pièces jointes/Capture d’écran 2025-10-21 à 15.06.21.png",
+    "99 - Pièces jointes/Capture d’écran 2025-10-17 à 15.59.22.png",
+    "99 - Pièces jointes/Capture d’écran 2025-10-17 à 15.52.14.png",
+    "99 - Pièces jointes",
+    "04 - Bibliothèque/Livres/Écrits philosophiques et politiques 1 -- Louis Althusser; textes réunis et présentés par François -- Livre de poche_ Biblio essais, 4279, 4313, -- 9782234043787 -- ca8fb41821283f64a450e6f87d0a0e20 -- Anna’s Archive.pdf",
+    "04 - Bibliothèque/Livres/Your Stone Age Brain in the Screen Age_ Coping with Digital -- Richard E_ Cytowic -- 2024 -- MIT Press -- 83c9c2c4d32d5d8e651e2478c1646ca1 -- Anna’s Archive.epub",
+    "04 - Bibliothèque/Livres/Virtues and Vices _ And Other Essays in Moral Philosophy -- Philippa Foot -- Reprint, US, 2003 -- Clarendon Press ; Oxford University Press -- 9780191530999 -- 9b88245fabcdb73092f238a381c99bd7 -- Anna’s Archive.pdf",
+    "04 - Bibliothèque/Livres/The-Tyranny-of-Guilt_-An-Essay-on-Western-Masochism-Pascal-Bruckner-2010-PrincetonUP-77b491671f58439.epub",
+    "04 - Bibliothèque/Livres/The-Cultural-Politics-of-Emotion_-Sara-Ahmed-Sara-Ahmed-Edinburgh_-2004-Edinburgh-University-Press-9.epub",
+    "04 - Bibliothèque/Livres/The Tyranny of Guilt _ An Essay on Western Masochism -- Pascal Bruckner; translated from the French by Steven -- Princeton University Press, -- 9780691143767 -- c05f408dc8be70d172ecab84249e81d5 -- Anna’s Archive.epub",
+    "04 - Bibliothèque/Livres/The Ethics of Ordinary Technology -- Michel Puech -- Routledge Studies in Science, Technology and Society, 1, -- Routledge -- 9781138486546 -- 28bc81ac2cfb483272b54e29801a93db -- Anna’s Archive.pdf",
+    "04 - Bibliothèque/Livres/The Burnout Society -- Byung-Chul Han; Erik Butler -- Stanford Briefs, 1, 2015 -- Stanford Briefs, an imprint of Stanford University Press -- 9780804795098 -- 9698a14dcb9d4db51a8fc7f41bef08b5 -- Anna’s Archive.epub",
+    "04 - Bibliothèque/Livres/Robot Ethics_ The Ethical and Social Implications of -- Abney, Keith;Bekey, George A_;Lin, Patrick -- Intelligent robotics and autonomous agents, -- 9780262016667 -- 66753d9a93f0578aa1e635e3805a28ce -- Anna’s Archive.lit",
+    "03 - Candidatures PhD/Projet de recherche (brouillon).md",
+    "03 - Candidatures PhD/Fiche — Programmes PhD cibles (2027).md",
+    "03 - Candidatures PhD/Fiche — Directeurs·rices potentiel·les.md",
+    "02 - Notes thématiques/Philosophie de la technique/Technologie sociale/Sherry Turkle.md",
+    "02 - Notes thématiques/Philosophie/Philosophie ancienne/Ancient political (and social) theories.md",
+    "02 - Notes thématiques/Philosophie de la technique/Ethics of technology.md",
+    "02 - Notes thématiques/Technologie & sciences/Ouvrages de technologie & neurologie.md",
+    "02 - Notes thématiques/Individualism.md",
+    "01 - Cours & séminaires/Sorbonne/Éthique environnementale (M. Puech).md",
+    "01 - Cours & séminaires/Sorbonne/Les labyrinthes de l'identité.md",
+    "01 - Cours & séminaires/EHESS/The Politics of Emotions.md",
+    "01 - Cours & séminaires/EHESS/Santé mentale.md",
+    "01 - Cours & séminaires/EHESS/Réunion philosophie.md",
+    "01 - Cours & séminaires/EHESS/Pourquoi vivons-nous ensemble?.md",
+    "01 - Cours & séminaires/EHESS/Pluralisme, contradiction, incertitude.md",
+    "01 - Cours & séminaires/EHESS/Les Envers de Hegel.md",
+    "01 - Cours & séminaires/EHESS/Philosopher sur les modèles d'Intelligence Artificielle.md",
+    "01 - Cours & séminaires/EHESS/Méthodologie.md",
+    "01 - Cours & séminaires/EHESS/La sacralisation de l’enfant et ses contradictions. Pour une sociologie de l’individualisme égalitaire et de ses effets paradoxaux.md",
+    "00 - Boîte de réception/👋 Test synchro Claude.md",
     "👋 Test synchro Claude.md",
-    "EHESS/The Politics of Emotions.md",
-    "Philosophy of technology/Ethics of technology.md",
-    "EHESS/Pluralisme, contradiction, incertitude.md",
-    "EHESS/Méthodologie.md",
-    "EHESS/Philosopher sur les modèles d'Intelligence Artificielle.md",
-    "EHESS/Santé mentale.md",
-    "EHESS/Pourquoi vivons-nous ensemble?.md",
+    "Untitled.canvas",
+    "Technologie & sciences/Ouvrages de technologie & neurologie.md",
     "Sorbonne/Éthique environnementale (M. Puech).md",
     "Sorbonne/Les labyrinthes de l'identité.md",
-    "EHESS/Réunion philosophie.md",
-    "Technologie & sciences/Ouvrages de technologie & neurologie.md",
-    "EHESS/Les Envers de Hegel.md",
-    "PJAIDE_2025_Markelius_Companion_AI_Trust.pdf",
-    "Capture d’écran 2025-10-28 à 14.56.39.png",
-    "The-Cultural-Politics-of-Emotion_-Sara-Ahmed-Sara-Ahmed-Edinburgh_-2004-Edinburgh-University-Press-9.epub",
-    "Capture d’écran 2025-10-27 à 16.49.55.png",
-    "Pasted image 20251027165348.png",
-    "The Tyranny of Guilt _ An Essay on Western Masochism -- Pascal Bruckner; translated from the French by Steven -- Princeton University Press, -- 9780691143767 -- c05f408dc8be70d172ecab84249e81d5 -- Anna’s Archive.epub",
-    "The-Tyranny-of-Guilt_-An-Essay-on-Western-Masochism-Pascal-Bruckner-2010-PrincetonUP-77b491671f58439.epub",
-    "Capture d’écran 2025-10-24 à 15.55.05.png",
-    "Capture d’écran 2025-10-24 à 15.26.56.png",
-    "Capture d’écran 2025-10-24 à 14.09.29.png",
-    "Capture d’écran 2025-10-24 à 14.08.02.png",
-    "EHESS/Nature, nature humaine et affectivité.md",
-    "Capture d’écran 2025-10-21 à 15.06.21.png",
-    "Écrits philosophiques et politiques 1 -- Louis Althusser; textes réunis et présentés par François -- Livre de poche_ Biblio essais, 4279, 4313, -- 9782234043787 -- ca8fb41821283f64a450e6f87d0a0e20 -- Anna’s Archive.pdf",
-    "Capture d’écran 2025-10-17 à 15.59.22.png",
-    "Capture d’écran 2025-10-17 à 15.52.14 1.png",
-    "James-Baldwin-Article 1.pdf",
-    "James-Baldwin-Article.pdf",
-    "EHESS/Lors des rédactions des travaux.md",
-    "Untitled.canvas",
     "Philosophy/Ancient philosophy/Ancient political (and social) theories.md",
-    "EHESS/La sacralisation de l’enfant et ses contradictions. Pour une sociologie de l’individualisme égalitaire et de ses effets paradoxaux.md",
-    "Michel Maffesoli, Le temps des Tribus. Le déclin de l'individualisme dans les sociétés de masse, Paris, Méridiens-Klincksieck, 1988 [compte-rendu].pdf",
-    "Individualism.md",
-    "Technophilia and technophobia.pdf",
-    "Philosophy of technology/Social technology/Sherry Turkle.md",
-    "La sacralisation de l'enfant/oui.md",
-    "Technologie & sciences/Technologie et sciences.md",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Philosophy of technology/Untitled.md"
+    "Untitled 1.canvas"
   ]
 }
