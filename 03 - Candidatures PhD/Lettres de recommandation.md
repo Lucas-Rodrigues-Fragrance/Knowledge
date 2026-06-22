@@ -7,7 +7,7 @@ Pour le Science, Technology & Society PhD à l’Université Cornell
 
 Lien du programme: [https://sts.cornell.edu/phd](https://sts.cornell.edu/phd)
 
-  
+  Date candidature:
 
 Taux d’acceptation: ~10%
 
