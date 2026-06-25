@@ -21,15 +21,15 @@ Fichier : [[The culture of narcissism - American life in an age of -- Lasch, Chr
 
 ## 🧒 En une phrase plus simple
 La société « narcissique » n'est pas pleine de gens qui s'aiment trop, mais de
-gens qui **ne savent plus qui ils sont** et qui ont peur — alors ils remplissent
-ce vide avec l'image, le développement personnel et l'approbation des autres.
+gens qui **ne savent plus qui ils sont** (maybe because l'individu est très important. Par "important", je veux dire qu'il devient sacralisé) et qui ont peur — alors ils remplissent ce vide avec l'image (celui-ci permet d'améliorer la relation avec les autres), le développement personnel et l'approbation des autres.
 
 ## 🔑 Architecture de l'argument (chapitres réels)
-1. **Waning of the Sense of Historical Time** — perte du passé *et* du futur ; règne du présent.
+1. **Waning of the Sense of Historical Time** — perte du passé *et* du futur ; règne du présent, plus précisément maintenant, et non présent au sens ma génération ? Au fait, peut-être les deux.
 2. **The Therapeutic Sensibility / From Politics to Self-Examination** — la politique se mue en quête de bien-être ; le citoyen devient patient.
 3. **The Void Within** — derrière l'obsession de soi, un vide ; le narcissisme (au sens clinique) = fragilité, peur de la dépendance, *pas* amour de soi.
 4. **The Apotheosis of Individualism** — l'individu « libéré » des traditions se retrouve seul, dépendant du regard extérieur.
 
+Autrement dit, le mouvement du livre ce fait ainsi: on part du grand (famille, génération, tradition, bref la temporalité) à la politique à l'individu et la relation entre les inidivdus, ou plus précisément les conséquence de ce void within.
 **Image-clé du livre** : *Horatio Alger* (succès par l'effort/le travail) →
 remplacé par *the Happy Hooker* (succès par l'image et la séduction).
 
