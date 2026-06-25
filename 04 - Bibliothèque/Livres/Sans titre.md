@@ -1,0 +1,1 @@
+![[The culture of narcissism - American life in an age of -- Lasch, Christopher, 1932- -- Warner Books ed_, New York, 1979 -- New York - Warner Books -- isbn13 9780446321044 -- b34c055f29b5bb4e5aefdbfb1ce32611 -- Anna’s Archive.pdf]]
