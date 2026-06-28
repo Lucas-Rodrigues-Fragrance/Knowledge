@@ -13,4 +13,9 @@ Explication:
 Démonstration: L'écarts des grandes inventions se retrécissent.
 Enjeux: La technologie façonne notre société. (source: théorique Marshall McLuhan et une source plus empirique serait le bienvenue)
 
-Conséquence des trois parties précédentes: L'individu ne fait pas que s'adapter à un monde continuellement en changement
+**Conséquence des trois parties précédentes:** 
+L'individu ne fait pas que s'adapter à un monde continuellement en changement
+
+Problème: l'amour à l'épreuve de deux individus changeants.
+Comment les relations amoureuses peuvent-elles naviguées dans un terrain en constant changement ?
+
