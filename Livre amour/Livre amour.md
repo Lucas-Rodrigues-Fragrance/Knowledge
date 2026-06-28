@@ -7,4 +7,8 @@ Christopher Lasch dans son ouvrage
 Or, les relations amoureuses impliquent traditionnellement deux individus différents. Chacun a eu son identité propre  (éducation familiale, amitiés, valeurs, ambitions, intérêts, etc.).
 
 **La modernité comme changement perpétuel**
-En physique mécanique, l'accélération est ce qui varie la vitesse d'un objet. Par exemple, une voiture q
+En physique mécanique, l'accélération est ce qui varie la vitesse d'un objet. Par exemple, une voiture q...
+Thèse: notre ère est considéré comme un changement perpétuel. 
+Explication:
+Démonstration: L'écarts des grandes inventions se retrécissent.
+Enjeux: La technologie façonne notre société. (source: théorique Marshall McLuhan et une source plus empirique serait le bienvenue)
