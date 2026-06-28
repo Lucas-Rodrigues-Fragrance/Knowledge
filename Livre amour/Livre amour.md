@@ -12,3 +12,5 @@ Thèse: notre ère est considéré comme un changement perpétuel.
 Explication:
 Démonstration: L'écarts des grandes inventions se retrécissent.
 Enjeux: La technologie façonne notre société. (source: théorique Marshall McLuhan et une source plus empirique serait le bienvenue)
+
+Conséquence des trois parties précédentes: L'individu ne fait pas que s'adapter à un monde continuellement en changement
